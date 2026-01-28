@@ -1,4 +1,4 @@
-## Hi there 👋
+![Normal Banner](https://ishan-rest.vercel.app/svg/banner/normal/zach-richards)
 
 ## Tech Stack
 
