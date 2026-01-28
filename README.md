@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Technologies
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 <!--
 **zach-richards/zach-richards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
