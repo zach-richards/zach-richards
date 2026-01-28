@@ -2,13 +2,28 @@
           <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&reversal=false">
 </p>
 
+# Connect with Me
+
 # About Me
 
-'''yaml
+```yaml
 name: Zach Richards
 located_in: Moscow, Idaho
 education: Pursuing Bachelors in Computer Science at University of Idaho
-'''
+
+fields of interest:
+  [
+    "Web Development",
+    "App Development",
+    "AI",
+    "Machine Learning",
+    "Embedded Devices",
+  ]
+
+currently_learning: Rust
+2026 Goals: ["Keep up my high GPA", "Finish atleast 2 personal projects"]
+hobbies: ["Reading", "Gaming", "Cinema", "Learning"]
+```
 
 # Tech Stack
 
