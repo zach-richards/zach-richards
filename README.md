@@ -1,10 +1,14 @@
-<head>
-          <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</head>
-
-<body>
 <p align="center">
           <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&reversal=false">
+</p>
+
+<h1 align="center">Let's Connect! 🗩</h1>
+<p align="center">
+          <a href="https://www.linkedin.com/in/zach-richards-6405aa367/">
+          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height=55 width=55>
+          </a>
+          <a href="https://www.instagram.com/zach.richards2025/">
+          <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" height=55 width=55>
 </p>
 
 # 🧑 About Me
@@ -28,28 +32,9 @@ currently_learning: Rust
 hobbies: ["Reading", "Gaming", "Cinema", "Learning"]
 ```
 
-# 🧑‍💻 Technology I Know
+# 🧑‍💻 Technology I Have Learned
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=45 width=45 />
-</body>          
-          
-          
-          
-
-<!--
-**zach-richards/zach-richards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=45 width=45 /> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=45 width=45 />
 
 <p align="center">
           <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&descAlign=50&section=footer">
