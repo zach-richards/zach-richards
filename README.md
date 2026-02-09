@@ -18,7 +18,7 @@ name: Zach Richards
 located_in: Moscow, Idaho
 education: Pursuing Bachelors in Computer Science at University of Idaho
 
-fields of interest:
+fields_of_interest:
   [
     "Web Development",
     "App Development",
@@ -28,11 +28,11 @@ fields of interest:
   ]
 
 currently_learning: Rust
-2026 Goals: ["Keep up my high GPA", "Finish atleast 2 personal projects"]
+2026_goals: ["Keep up a 3.8 GPA", "Finish atleast 2 personal projects"]
 hobbies: ["Reading", "Gaming", "Cinema", "Learning"]
 ```
 
-# 🧑‍💻 Technology I Have Learned
+# 🧑‍💻 Technologies I Have Learned
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=45 width=45 /> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=45 width=45 />
 
