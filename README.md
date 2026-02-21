@@ -62,14 +62,21 @@ A multithreaded system that tracks productivity signals and gives suggustions on
 # ⚙️ Tech Stack
 
 <p align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" height=50 width=50 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=50 width=50 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=50 width=50 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50 width=50 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50 width=50 /> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50 width=50 />
-          <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" height=50 width=50 />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=50 width=50 />
+          <img src="assets/vim_plain_logo_icon_146310(1).svg" height=50 width=50 />
+          <img src="assets/git_original_logo_icon_146509.svg" height=50 width=50 />
+          <img src="assets/linux-svgrepo-com.svg" height=50 width=50 />
+          <img src="assets/python-svgrepo-com.svg" height=50 width=50 />
+          <img src="assets/c-program-icon.svg " height=50 width=50 /> 
+          <img src="assets/c-plus-plus-programming-language-icon.svg" height=50 width=50 />
+          <picture>
+            <!-- Light mode image -->
+            <source srcset="assets/Rust_programming_language_black_logo.svg.png" media="(prefers-color-scheme: light)" />
+            <!-- Dark mode image -->
+            <source srcset="assets/rust-logo.png" media="(prefers-color-scheme: dark)" />
+            <!-- Fallback -->
+            <img src="assets/Rust_programming_language_black_logo.svg.png" width="50" height="50" />
+          </picture>
+          <img src="assets/java.svg" height=50 width=50 />
 </p>
 
 # 📫 Open to
