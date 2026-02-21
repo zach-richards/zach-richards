@@ -2,6 +2,13 @@
           <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&reversal=false">
 </p>
 
+<h3 align="center">
+          Computer Science Student @ University of Idaho  
+</h3>
+<h3 align="center">
+          Building Systems in Rust & C • Exploring App Building
+</h3>
+
 <h1 align="center">Let's Connect! 🗩</h1>
 <p align="center">
           <a href="https://www.linkedin.com/in/zach-richards-6405aa367/">
@@ -32,9 +39,13 @@ currently_learning: Rust
 hobbies: ["Reading", "Gaming", "Cinema", "Learning"]
 ```
 
-# 🧑‍💻 Technologies I Have Learned
+# ⚙️ Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=45 width=45 /> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=45 width=45 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=45 width=45 />
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zach-richards&show_icons=true&theme=default&count_private=true&hide_border=true" />
+</p>
 
 <p align="center">
           <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&descAlign=50&section=footer">
