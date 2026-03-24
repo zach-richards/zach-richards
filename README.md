@@ -14,7 +14,7 @@
           <a href="https://www.linkedin.com/in/zach-richards-6405aa367/">
           <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height=55 width=55>
           </a>
-          <a href="https://www.instagram.com/tech.by.zach/">
+          <a href="https://www.instagram.com/zach.dev_/">
           <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" height=55 width=55>
 </p>
 
