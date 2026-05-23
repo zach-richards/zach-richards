@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-          Computer Science Student @ University of Idaho  
+          Computer Science Student @ Boise State University 
 </h3>
 <h3 align="center">
           Building Systems in Rust & C • Exploring App Building
@@ -22,8 +22,8 @@
 
 ```yaml
 name: Zach Richards
-role: ["Student at University of Idaho", "Developer"]
-located_in: Moscow, Idaho
+role: ["Student at Boise State University", "Developer"]
+located_in: Boise, Idaho
 focus: Writing efficient, perfomance-oriented software
 
 fields_of_interest:
@@ -43,9 +43,8 @@ currently_building:
 
 2026_goals:
   [
-    "Keep up a 3.8+ GPA",
+    "Keep up a 3.5+ GPA",
     "Finish atleast 2 personal projects",
-    "Land an internship in Boise, Idaho",
   ]
 
 philosophy: "Build things that matter. Ship > perfect."
@@ -53,11 +52,12 @@ philosophy: "Build things that matter. Ship > perfect."
 
 # 🚀 Featured Projects
 
-### 🧠 HumanOS (Rust, Later React)
+### 🧠 HumanOS (Rust, React)
 A multithreaded system that tracks productivity signals and gives suggustions on how to improve performance.
 - Concurrency with Arc<Mutex<>>
 - Event-driven architecture
 - Performance-first design
+- Visual indicator of focus
 
 # ⚙️ Tech Stack
 
