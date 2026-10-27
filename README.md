@@ -47,7 +47,7 @@ currently_building:
     "Finish atleast 2 personal projects",
   ]
 
-philosophy: "Build things that matter. Ship > perfect."
+quote: "An idiot in motion goes further than a genius at rest."
 ```
 
 # 🚀 Featured Projects
